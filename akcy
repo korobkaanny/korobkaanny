@@ -1,0 +1,95 @@
+<style type="text/css">
+    .block{max-width: 960px}
+    .tovary {
+text-align: center;
+margin-bottom: 30px;
+margin-top: 30px;
+}
+.tovar {
+width: auto;
+max-width: 300px;
+height: 100%;
+max-height: 353px;
+min-height: 440px;
+margin:  5px;
+display: inline-block;
+vertical-align: top;
+
+}
+.tovar:hover {
+}
+.tovar:hover img{opacity: 0.5;
+}
+a.new{
+color:#555555;
+width: 100%;
+max-width: 300px;
+
+text-align: left;
+display: inline-block;
+vertical-align: top;
+text-decoration: none;
+font-size: 16px;
+}
+a.new:hover{
+color: #fc682d;
+}	
+p.new{
+    margin-top: -10px;
+}
+</style>
+<div class="block">
+<div class="tovary">
+            
+
+<div class="tovar" style="text-align: center;">
+                        <a class="new" href="https://williams-oliver.ru/rasprodaza/posuda-dla-prigotovlenia-13112/">
+                            <img alt="" src="https://williams-oliver.ru/storage/page/gotovk.jpg_2023-08-11_13_13_19_825534.jpeg" style="width: 100%;">
+                           
+        
+<p>
+    Всё для приготовления со скидкой до 70%!</p>
+    <p class="new"><font color="626262" size="2" >Посуда для готовки от ваших любимых брендов </font>
+            
+</p>
+                            </a>
+                        
+    
+</div>
+                    
+
+<div class="tovar" style="text-align: center;">
+                                <a class="new" href="https://williams-oliver.ru/rasprodaza/?filters=%7B%22brand%22%3A%5B%2201066%22,%2297025%22,%2297131%22,%2297097%22,%2297099%22,%2296915%22,%2297291%22,%2297177%22,%2200406%22,%2297098%22,%2297063%22,%2200831%22,%2297191%22%5D%7D">
+                                    <img alt="" src="https://williams-oliver.ru/storage/page/decora.jpg_2023-08-11_13_05_00_919804.jpeg" style="width: 100%; ">
+                                    
+        
+<p>
+                Всё для декора стола со скидкой до 70%!</p>
+                <p class="new"><font color="626262" size="2" >Декор, текстиль и аксессуары для создания неповторимой атмосферы</font>
+            
+</p>
+                     </a>
+                    
+    
+</div>
+            
+
+<div class="tovar" style="text-align: center;">
+                        <a class="new" href="https://williams-oliver.ru/rasprodaza/servizy-i-servirovka-stola-13138/">
+                            <img alt="" src="https://williams-oliver.ru/storage/page/servr.jpg_2023-08-11_13_13_19_888234.jpeg" style="width: 100%; ">
+                            
+        
+<p>
+                Всё для сервировки со скидкой до 70%!</p>
+            <p class="new"><font color="626262" size="2" >Изысканные тарелки и сервизы, элегантные бокалы и многое другое для идеальной сервировки</font></p>
+            
+
+                        </a>
+                    
+    
+</div>
+            
+            
+
+</div>
+</div>
